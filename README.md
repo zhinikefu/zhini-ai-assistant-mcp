@@ -2,7 +2,7 @@
 
 > 将知你客服中的多平台客户资料、当前与历史会话及聊天记录连接到 Codex、Claude Code、WorkBuddy 等 AI 工具，通过自然语言完成客户查询、会话研判和业务分析。
 
-[知你AI助手官网](https://ai.zhinikefu.com/) · [知你客服官网](https://zhinikefu.com/) · MCP 服务地址：`https://mcp.h5bqb.top/mcp`
+[知你AI助手官网](https://ai.zhinikefu.com/?f=github) · [知你客服官网](https://zhinikefu.com/?f=github) · MCP 服务地址：`https://mcp.h5bqb.top/mcp`
 
 ## 产品介绍
 
@@ -47,7 +47,7 @@
 
 ### 1. 获取 API Key
 
-访问[知你AI助手官网](https://ai.zhinikefu.com/)，注册或登录后创建 API Key。
+访问[知你AI助手官网](https://ai.zhinikefu.com/?f=github)，注册或登录后创建 API Key。
 
 ### 2. 添加 MCP 连接
 
@@ -94,7 +94,7 @@ ZHINI_API_KEY=YOUR_API_KEY
 | 项目 | 信息 |
 | --- | --- |
 | 产品 | 知你AI助手 / Zhini AI Assistant |
-| 官网 | <https://ai.zhinikefu.com/> |
+| 官网 | <https://ai.zhinikefu.com/?f=github> |
 | MCP 地址 | `https://mcp.h5bqb.top/mcp` |
 | 传输方式 | Streamable HTTP |
 | 鉴权方式 | Bearer API Key |
